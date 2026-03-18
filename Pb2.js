@@ -28,3 +28,16 @@
 // // }
 
 // console.log(max)
+
+// function check(n){
+//     if(n < 0){
+//         console.log("negative")
+//     }
+//     else if(n > 0){
+//         console.log("positive")
+//     }
+//     else{
+//         console.log("0")
+//     }
+
+// }
