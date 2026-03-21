@@ -41,3 +41,37 @@
 //     }
 
 // }
+
+// let total = 0
+// function calculatebill(unit){
+    
+
+//     if(unit <=100){
+//         temp =  unit
+//        total += temp * 5
+//        unit = unit - temp
+//        return total
+//     }
+//     else if(unit <=200){
+//        temp =  unit - 100
+//        total += temp * 7
+//        unit = unit - temp
+//        return calculatebill(unit)
+        
+//     }
+//     else if(unit <=300){
+//         temp =  unit - 200
+//        total += temp * 10
+//        unit = unit - temp
+//        return calculatebill(unit)
+        
+//     }else{
+//        temp =  unit - 300
+//        total += temp * 12
+//        unit = unit - temp
+//        return calculatebill(unit)
+//     }
+    
+// }
+
+// console.log(calculatebill(200))
